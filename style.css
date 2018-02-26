@@ -1,0 +1,28 @@
+body {
+	background-color: #99ccff;
+
+}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+}
+
+p {
+	margin: 0 auto;
+	width: 600px;
+	color: black;
+	padding-top: 30px;
+}
+
+h1, h2, h3 {
+	text-align: center;
+}
+
+.links {
+	text-decoration: none;
+}
+
+
